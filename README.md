@@ -1,2 +1,2 @@
-# embedded_systems tutorials
+# Embedded systems Tutorials
 AMD Xilinx course material
