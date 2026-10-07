@@ -49,7 +49,7 @@ Les GPIO sont ensuite configurés en entrée ou en sortie. Python permet d'écri
 
 ## Architecture
 
-![Architecture complète du projet Logic Gate](./schema_logic_gate.png)
+![Architecture complète du projet Logic Gate](./Architecture Logic Gates sur PYNQ-Z2.png)
 
 Le processeur ARM exécute le notebook Python. Les valeurs d'entrée sont envoyées par les GPIO vers la logique programmable, qui réalise les opérations logiques. Les résultats sont ensuite relus depuis Python.
 
